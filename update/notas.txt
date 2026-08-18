@@ -1,0 +1,1 @@
+LoopLab: atualizacao via GitHub funcionando. (arquivo de teste do updater)
