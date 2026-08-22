@@ -1,0 +1,2 @@
+# Evita Git converter CRLF/LF nos arquivos de update (quebra o SHA-256 do manifesto).
+update/** -text
